@@ -5,6 +5,7 @@
 To run this code, you need to have the following packages installed:
 
 - Python 3.x
+- sklearn
 - TensorFlow
 - Matplotlib
 - Pandas
@@ -15,7 +16,7 @@ To run this code, you need to have the following packages installed:
 
 ### Loading Dataset
 
-First, we load the California housing dataset from `sklearn`:
+We load the California housing dataset from `sklearn`:
 
 ```python
 from sklearn.datasets import fetch_california_housing
