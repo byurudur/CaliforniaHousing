@@ -11,9 +11,6 @@ To run this code, you need to have the following packages installed:
 - Pandas
 - NumPy
 
-
-## Building the Model for One Input & One Output
-
 ### Loading Dataset
 
 We load the California housing dataset from `sklearn`:
